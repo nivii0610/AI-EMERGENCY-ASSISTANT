@@ -1,0 +1,5 @@
+Date,Time,Emergency,Severity,Description,Location,Similarity Score
+2026-09-01,15:48:31,FLOOD,MEDIUM,flood,chennai,0.68
+2026-09-01,15:52:57,FIRE,CRITICAL,trapped inside building with fire surroubding me,chennai,0.61
+2026-09-01,15:56:20,FLOOD,MEDIUM,flood,nepal,0.68
+2026-09-01,16:01:12,FLOOD,LOW,water is surrounding,nepal,0.46
