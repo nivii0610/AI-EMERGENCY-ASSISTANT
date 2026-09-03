@@ -1,0 +1,7 @@
+numpy
+sentence-transformers
+SpeechRecognition
+PyAudio
+pyttsx3
+torch
+langdetect
